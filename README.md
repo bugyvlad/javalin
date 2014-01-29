@@ -10,6 +10,13 @@ http://home.hccnet.nl/h.g.muller/CVfairy.html
 It was also able to eke out one draw against the powerful Arasan engine, but will normally lose
 to it.
 
+***********   IMPORTANT *****************
+
+This engine does NOT have pondering. ( Pondering means thinking on your opponents time.) Therefore, you must
+turn off pondering on the Xboard/Windboard options menu, else you cannot have a fair match. A pondering engine takes away CPU cycles from its opponent when run on the same computer.)
+
+*****************************************
+
 This is a rewrite of my original chess project. The first one was all original code, but played
 horribly weak chess.  So I took on a more collaborative approach.
 
